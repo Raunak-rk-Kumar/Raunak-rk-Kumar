@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raunak-rk-Kumar
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Anything
+- 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me +919711465724 , raunak.rk.kumar@gmail.com
 
 <!---
